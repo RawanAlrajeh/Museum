@@ -1,0 +1,88 @@
+/* print styles */
+@media print {
+/* 
+  body{
+ 
+    color: white;
+    background-color: black;
+    
+  } */
+  header{
+    background-color: white;
+  }
+  .navbar1 a {
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+  }
+  .navbar1 a:hover {
+    color: white;
+  }
+  .b0ttn{
+     background-color:black;
+     color: white;
+  }
+  .nex-video{
+    background-color: black;
+    color: white;
+}
+.background-video{
+  background-color:black;
+}
+.row-Details{
+  background-color: black;
+  color: white;
+}
+.join-our{
+  background-color: white;
+  color: black;
+}
+.button{
+  background-color: black;
+  color: white;
+}
+      /* Footer1 */
+
+.first-footer{
+  background-color: black;
+  color: white;
+
+      
+       }
+    /* End */
+
+.second-footer {
+   background-color: white;
+    color: black;
+
+     
+    }
+
+    .second-footer a {
+      text-decoration: none;
+    }
+    .col a{
+      text-decoration: none;
+      color: black;
+    }
+    .col a:hover {
+      color: black;
+    }
+    .second-footer a:visited {
+      color: black;
+    }
+    .second-footer .second-footer-icon a {
+      color: black;
+    }
+  
+    /*  */
+    .first-footer{
+      background-color: black;
+      color: white;
+
+    
+    }
+
+
+}
