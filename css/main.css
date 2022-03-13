@@ -369,6 +369,11 @@ margin-right: 60px;
 
       .second-footer a {
         text-decoration: none;
+        color: white;
+      }
+      .second-footer a:hover {
+
+        color: burlywood;
       }
       .col a{
         text-decoration: none;
@@ -383,3 +388,4 @@ margin-right: 60px;
       .second-footer .second-footer-icon a {
           color: white;
       }
+
