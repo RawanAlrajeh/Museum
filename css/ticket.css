@@ -2,8 +2,11 @@
 .soon{
 display: flex;
 justify-content: center;
-padding: 20%;
+padding: 25%;
 align-items: flex-end;
 
 
+}
+#body{
+    background-color: rgb(244, 242, 242);
 }
